@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XOR_gen", "XOR_gen\XOR_gen.csproj", "{50C9F0BE-4FC8-45FE-A2D1-A06E66AED580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50C9F0BE-4FC8-45FE-A2D1-A06E66AED580}.Debug|x86.ActiveCfg = Debug|x86
+		{50C9F0BE-4FC8-45FE-A2D1-A06E66AED580}.Debug|x86.Build.0 = Debug|x86
+		{50C9F0BE-4FC8-45FE-A2D1-A06E66AED580}.Release|x86.ActiveCfg = Release|x86
+		{50C9F0BE-4FC8-45FE-A2D1-A06E66AED580}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

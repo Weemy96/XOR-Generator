@@ -1,0 +1,6 @@
+/home/weemy96/Projects/XOR_gen/XOR_gen/bin/Debug/XOR_gen.exe
+/home/weemy96/Projects/XOR_gen/XOR_gen/bin/Debug/XOR_gen.pdb
+/home/weemy96/Projects/XOR_gen/XOR_gen/obj/x86/Debug/XOR_gen.csprojResolveAssemblyReference.cache
+/home/weemy96/Projects/XOR_gen/XOR_gen/obj/x86/Debug/XOR_gen.csproj.CoreCompileInputs.cache
+/home/weemy96/Projects/XOR_gen/XOR_gen/obj/x86/Debug/XOR_gen.exe
+/home/weemy96/Projects/XOR_gen/XOR_gen/obj/x86/Debug/XOR_gen.pdb
